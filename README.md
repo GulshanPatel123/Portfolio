@@ -1,2 +1,1 @@
-# GulshanKumarPatel123.github.io
-My portfolio
+Personal Static Website
